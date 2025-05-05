@@ -1,6 +1,8 @@
 # auto_extend_disk
 
-
+for ubuntu22.04 & 24.04 
+chmod +x auto_extend_root_disk.sh
+./auto_extend_root_disk.sh
 
 ## Getting started
 
